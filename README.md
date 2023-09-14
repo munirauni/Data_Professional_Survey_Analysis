@@ -13,6 +13,7 @@ This analysis could be the guide for those who want to get into this field as we
 ## DATA SOURCE 
 
 Data were collected by a data analyst, Alex Freberg through a survey on data professional in which data analyst, data engineer, and data scientist details were stored. The data source is shared in the format of Excel.
+
 [Click here for the original data source](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 
@@ -29,6 +30,7 @@ The original data source in excel format was loaded into power query for data cl
 The finished Data professional survey dashboard with important details and visualization along with the key insights that I uncovered:
 
 ![](https://github.com/munirauni/Data_Professional_Survey_Analysis/blob/main/docs/assets/Data%20Professional%20Survey%20Breakdown.png)
+[PBIX file can be found here] (https://drive.google.com/drive/folders/1oW_M3W4K9QbGq1cLgWJr3xFFzicalxvy?usp=sharing)
 
 
 ### Key Insights
